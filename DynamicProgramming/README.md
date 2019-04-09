@@ -53,3 +53,4 @@
 * [동적 계획법 - 나무위키](https://namu.wiki/w/%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95)
 * [동적계획법(Dynamic Programing, DP)](https://coding-all.tistory.com/2)
 * [[알고리즘] 동적 계획법(Dynamic Programming) - 1](https://new93helloworld.tistory.com/220)
+* [동적 프로그래밍(Dynamic programming)](https://www.zerocho.com/category/Algorithm/post/584b979a580277001862f182)
