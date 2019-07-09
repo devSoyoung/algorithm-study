@@ -1,4 +1,4 @@
-# Software Expert Academy
+# Algorithm Study
 ## Dynamic Programming
 * 1, 2, 3 더하기 : [소스코드]()
 * 삼각형 : [소스코드]()
