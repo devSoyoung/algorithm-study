@@ -1,4 +1,8 @@
 # Algorithm Study
+## Input Output
+* 백준 1008번, A/B : [문제](https://www.acmicpc.net/problem/1008), [소스코드]()
+* 백준 2741번, N 찍기 : [문제](https://www.acmicpc.net/problem/2741), [소스코드]()
+
 ## Dynamic Programming
 * 1, 2, 3 더하기 : [소스코드]()
 * 삼각형 : [소스코드]()
@@ -10,6 +14,6 @@
 * 팩토리얼 : [소스코드]()
 
 ## Simulation
-* 백준 2455번, 지능형 기차 : [문제](https://www.acmicpc.net/problem/2455), [소스코드]()
 * 백준 1094번, 막대기 : [문제](https://www.acmicpc.net/problem/1094), [소스코드]()
 * 백준 1966번, 프린터 큐 : [문제](https://www.acmicpc.net/problem/1966), [소스코드]()
+* 백준 2455번, 지능형 기차 : [문제](https://www.acmicpc.net/problem/2455), [소스코드]()
